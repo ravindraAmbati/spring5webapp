@@ -102,7 +102,6 @@ public class Publisher {
                 ", addressLine1='" + addressLine1 + '\'' +
                 ", city='" + city + '\'' +
                 ", state='" + state + '\'' +
-                ", books=" + books +
                 '}';
     }
 }
